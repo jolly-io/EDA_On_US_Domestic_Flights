@@ -3,7 +3,7 @@
 
 In this project, I undertake Exploratory Data Analysis (EDA)
 
-Essentially, give the available dataset, I formulate and pose a number of insight eliciting questions and endeavor to answer these questions from the dataset leveraging the Pandas library and relevant Visualization toolkits.
+Essentially, give the available dataset, I formulate and pose a number of insight eliciting questions and endeavor to answer these questions from the dataset leveraging the Pandas, Numpy libraries and other relevant Visualization toolkits.
 
 
 
