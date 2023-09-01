@@ -1,9 +1,9 @@
 
 ## EDA_On_US_Domestic_Flights
 
-In this project, I undertake Exploratory Data Analysis (EDA)
+In this project, I undertook Exploratory Data Analysis (EDA)
 
-In essence, given the available dataset, I formulate and pose a number of insight eliciting questions and endeavor to answer these questions from the dataset leveraging the Pandas, Numpy libraries and other relevant Visualization toolkits.
+In essence, given the available dataset, I formulated and posed a number of insight eliciting questions and endeavored to answer these questions from the dataset leveraging the Pandas, Numpy libraries and other relevant Visualization toolkits.
 
 
 
